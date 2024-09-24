@@ -5,7 +5,7 @@ description: "เข้าร่วมการแข่งขัน Thailand Cy
 image: "./TCTT2023.jpg"
 tags: ["CTF"]
 category: Challenge CTF
-draft: true
+draft: false
 ---
 
 # Thailand Cyber Top Talent 2023

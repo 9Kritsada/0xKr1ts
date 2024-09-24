@@ -5,7 +5,7 @@ description: "เข้าร่วมการฝึกอบรมในค่
 image: "./ncsa_bootcamp.png"
 tags: ["BOOTCAMP", "CTF"]
 category: BOOTCAMP
-draft: true
+draft: false
 ---
 
 # NCSA CTF Boot Camp 2024

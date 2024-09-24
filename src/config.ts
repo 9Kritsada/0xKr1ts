@@ -37,35 +37,30 @@ export const navBarConfig: NavBarConfig = {
   links: [
     LinkPreset.Home,
     LinkPreset.Archive,
-    LinkPreset.About,
-    {
-      name: 'GitHub',
-      url: 'https://github.com/saicaca/fuwari',     // Internal links should not include the base path, as it is automatically added
-      external: true,                               // Show an external link icon and will open in a new tab
-    },
+    // LinkPreset.About,
+    // {
+    //   name: 'GitHub',
+    //   url: 'https://github.com/saicaca/fuwari',     // Internal links should not include the base path, as it is automatically added
+    //   external: true,                               // Show an external link icon and will open in a new tab
+    // },
   ],
 }
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/0xKrits.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: '0xKr1ts',
-  bio: '0x16 0x14',
+  bio: 'whoami',
   links: [
-    {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes https://icones.js.org/collection/fa6-brands
-                                        // You will need to install the corresponding icon set if it's not already included
-                                        // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
-    },
-    {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
-    },
+    // {
+    //   name: 'Twitter',
+    //   icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes https://icones.js.org/collection/fa6-brands
+    //                                     // You will need to install the corresponding icon set if it's not already included
+    //                                     // `pnpm add @iconify-json/<icon-set-name>`
+    //   url: 'https://twitter.com',
+    // },
     {
       name: 'GitHub',
-      icon: 'fa6-brands:github',
+      icon: 'fa6-brands:facebook',
       url: 'https://github.com/saicaca/fuwari',
     },
     {
@@ -75,12 +70,7 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'GitHub',
-      icon: 'fa6-brands:facebook',
-      url: 'https://github.com/saicaca/fuwari',
-    },
-    {
-      name: 'GitHub',
-      icon: 'fa6-brands:facebook',
+      icon: 'fa6-brands:github',
       url: 'https://github.com/saicaca/fuwari',
     },
   ],

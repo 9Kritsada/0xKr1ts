@@ -1,0 +1,12 @@
+---
+title: STDiO CTF 2024
+published: 2024-10-21
+description: "เข้าร่วมการแข่งขัน STDiO CTF 2024"
+tags: ["CTF"]
+category: Challenge CTF
+draft: true
+---
+
+# STDiO CTF 2024
+เข้าร่วมการแข่งขัน STDiO CTF 2024 ชื่อทีม NullFaction อันดับที่ 131 จาก 311 ทำคะแนนได้ 0 คะแนน
+![Certificate](./STDiO_2024.png)

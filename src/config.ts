@@ -26,7 +26,7 @@ export const siteConfig: SiteConfig = {
   },
   favicon: [    // Leave this array empty to use the default favicon
     {
-      src: '/favicon/fav-0xkr1ts1.png',    // Path of the favicon, relative to the /public directory
+      src: '/favicon/0xkr1ts.png',    // Path of the favicon, relative to the /public directory
       sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
     }
   ]
@@ -46,7 +46,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/0xKrits-Avatar1.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/0xkr1ts.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: '0xKr1ts',
   bio: 'whoami',
   links: [

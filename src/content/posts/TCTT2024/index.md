@@ -1,6 +1,6 @@
 ---
 title: Thailand Cyber Top Talent 2024
-published: 2024-10-28
+published: 2024-09-29
 description: "เข้าร่วมการแข่งขัน Thailand Cyber Top Talent 2024"
 image: "./TCTT.jpg"
 tags: ["TCTT", "CTF"]

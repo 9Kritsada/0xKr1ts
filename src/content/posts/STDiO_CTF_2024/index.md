@@ -1,6 +1,6 @@
 ---
 title: STDiO CTF 2024
-published: 2024-10-21
+published: 2024-09-21
 description: "เข้าร่วมการแข่งขัน STDiO CTF 2024"
 image: "./STDiO.png"
 tags: ["STDiO CTF", "CTF"]

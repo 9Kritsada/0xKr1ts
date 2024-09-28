@@ -16,7 +16,7 @@ draft: false
 ### 🏆 Score:  1800 
 ### 📈 Rank:  47
 
-🔗 [Click View Score!](https://cloud.ctf.in.th/score/view.html?id=DVBTLV9D0W&t=oL3n5Xg2DaZaVIiale3QRXEtycxrtBSQuQOat+sUnJU=)
+🔗 [Click View Score!](https://cloud.ctf.in.th/score/view.html?id=QR66WITOOJ&t=WpUCDQyoXaG7MSteD4BK/Jg3qyIsUCRErURQa7xkesp4Qkqb69hVsz/Ka3jmVg9Zaf9xaUTR0yk=)
 ```
 🔥 Individual 
 Name: 👨‍💻 krits.wiri

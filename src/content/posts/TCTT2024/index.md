@@ -10,11 +10,11 @@ draft: false
 
 # 🌟 Thailand Cyber Top Talent 2024 🌟
 
-## เข้าร่วมการแข่งขัน Thailand Cyber Top Talent 2024 💻🎯
+### เข้าร่วมการแข่งขัน Thailand Cyber Top Talent 2024 💻🎯
 
-### ⚡ Team: NullFaction 
-### 🏆 Score:  1800 
-### 📈 Rank:  47
+⚡ **Team:** NullFaction 
+🏆 **Score:**  1800 
+📈 **Rank:**  47
 
 🔗 [Click View Score!](https://cloud.ctf.in.th/score/view.html?id=QR66WITOOJ&t=WpUCDQyoXaG7MSteD4BK/Jg3qyIsUCRErURQa7xkesp4Qkqb69hVsz/Ka3jmVg9Zaf9xaUTR0yk=)
 ```

@@ -30,16 +30,16 @@ MYGETFLAGTHCTT24🚩
 │   └── encrypted_flag2 : 100
 ├── 🖥️ Programming
 │   └── emoji_wordlist : 200
-├── 🌐 Network
+├── 🌐 Network Security
 │   ├── open_netsec1 : 100
 │   ├── open_netsec2 : 100
 │   └── open_netsec3 : 200
-├── 📱 Mobile
+├── 📱 Mobile Security
 │   ├── YouSeeMe : 100
 │   ├── Mobile : 200
 │   ├── TheFaceTHCTT24-2 : 100
 │   └── ClickClick-2 : 200
-└── 🕵️‍♂️ Digital Forensics
+└── 🕵️‍♂️ Digital Forensic
     ├── 90DAY : 100
     └── FindQR : 100
 ```

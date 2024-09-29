@@ -10,6 +10,7 @@ draft: false
 
 # Thailand Cyber Top Talent 2023
 เข้าร่วมการแข่งขัน  Thailand Cyber Top Talent 2023\
-ชื่อ **9kritsada** และชื่อทีม **เอนจิเนียริ่งเซนส์** 
-[Score!](https://cloud.ctf.in.th/score/view.html?id=DVBTLV9D0W&t=oL3n5Xg2DaZaVIiale3QRXEtycxrtBSQuQOat+sUnJU=)
+ชื่อ **9kritsada** และชื่อทีม **เอนจิเนียริ่งเซนส์** \
+<a href="https://cloud.ctf.in.th/score/view.html?id=2HFLHQZCMI&t=WpUCDQyoXaG7MSteD4BK/Jg3qyIsUCRE/iJ2HRYePCl4Qkqb69hVsz/Ka3jmVg9Zaf9xaUTR0yk=" target="_blank">🔗 Click View Score!</a>
+
 ![Certificate!](./CER-TCTT2023.png)

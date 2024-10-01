@@ -3,7 +3,7 @@ title: NCSA CTF Boot Camp 2024
 published: 2024-09-14
 description: "เข้าร่วมการฝึกอบรมในค่ายกิจกรรม NCSA CTF Boot Camp 2024"
 image: "./ncsa_bootcamp.png"
-tags: ["CAMP", "TCTT", "CTF"]
+tags: ["CAMP", "THCTT", "CTF"]
 category: BOOTCAMP
 draft: false
 ---

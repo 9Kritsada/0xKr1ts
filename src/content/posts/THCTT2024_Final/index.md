@@ -28,3 +28,5 @@ Rank: 📈 10
 
 ![my_team!](./my_team.jpg)
 <span style="opacity:0.8;">โจทย์ยากมากครับ 😅🧠</span>
+
+![Certificate](./Certificate.png)

@@ -1,5 +1,5 @@
 ---
-title: Huntress CTF 2024 (Online) 
+title: Huntress CTF 2024 
 published: 2024-11-05
 description: "เข้าร่วมการแข่งขัน Huntress CTF 2024"
 tags: ["Huntress","CTF"]
@@ -8,8 +8,8 @@ image: "./huntress_ctf_2024.png"
 draft: false
 ---
 
-# Huntress CTF 2024 (Online) 🕵️‍♀️🎮
-## เข้าร่วมการแข่งขัน Huntress CTF 2024 
+# Huntress CTF 2024 🕵️‍♀️🎮
+## เข้าร่วมการแข่งขัน Huntress CTF 2024 (Online) 
 
 โดยแข่งขันผ่านทางเว็บไซต์ https://huntress.ctf.games/
 

@@ -8,7 +8,9 @@ image: "./image-2.png"
 draft: false
 ---
 
-# Writeup REVERSING : BlueHens CTF 2024
+# Writeup: Reversing - BlueHens CTF 2024
+
+[I joined BlueHens CTF 2024](https://krits.xyz/posts/bluehens_ctf_2024/)
 
 ## Problems I Can Do
 - [Intro to Reverse](#problems-i-can-do)

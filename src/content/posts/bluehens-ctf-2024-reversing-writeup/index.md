@@ -72,4 +72,6 @@ The flag is:
 ```bash
 UDCTF{a_d1fF3R3nT_p3rsp3ct1v3}
 ```
-The `Cut The Flag` challenge was brainstormed with [Autsada Wiriya.](https://autsaa.top/)
+
+I brainstormed on the `Cut The Flag` challenge with [Autsada Wiriya.](https://autsaa.top/).
+

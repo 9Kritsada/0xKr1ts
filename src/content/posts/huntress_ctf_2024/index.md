@@ -4,7 +4,7 @@ published: 2024-11-05
 description: "เข้าร่วมการแข่งขัน Huntress CTF 2024"
 tags: ["CTF"]
 category: Challenge CTF
-image: "./huntress_ctf_2024.png"
+image: "./cover.png"
 draft: false
 ---
 

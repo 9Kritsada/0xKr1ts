@@ -4,7 +4,7 @@ published: 2024-11-10
 description: "A jeopardy-style CTF organized by the University of Delaware's own CTF team in collaboration with BSides Delaware. "
 tags: ["CTF"]
 category: Challenge CTF
-image: "./UDCTF-logo.png"
+image: "./cover.png"
 draft: false
 ---
 

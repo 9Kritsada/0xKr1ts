@@ -4,7 +4,7 @@ published: 2024-11-16
 description: "I Joined EKOPARTY CTF 2024 - A Jeopardy-style CTF"
 tags: ["CTF"]
 category: Challenge CTF
-image: "./logo.png"
+image: "./cover.png"
 draft: false
 ---
 

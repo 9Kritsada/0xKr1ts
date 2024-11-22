@@ -51,13 +51,6 @@ export const profileConfig: ProfileConfig = {
   name: '0xKr1ts',
   bio: 'whoami',
   links: [
-    // {
-    //   name: 'Twitter',
-    //   icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes https://icones.js.org/collection/fa6-brands
-    //                                     // You will need to install the corresponding icon set if it's not already included
-    //                                     // `pnpm add @iconify-json/<icon-set-name>`
-    //   url: 'https://twitter.com',
-    // },
     {
       name: 'Facebook',
       icon: '<svg xmlns="http://www.w3.org/2000/svg" width="800px" height="800px" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z"/></svg>',
@@ -78,21 +71,11 @@ export const profileConfig: ProfileConfig = {
       icon: '<svg xmlns="http://www.w3.org/2000/svg" width="800px" height="800px" viewBox="0 0 24 24" role="img"><path d="M11.996 0a1.119 1.119 0 0 0-.057.003.9.9 0 0 0-.236.05.907.907 0 0 0-.165.079L1.936 5.675a.889.889 0 0 0-.445.77v11.111a.889.889 0 0 0 .47.784l9.598 5.541.054.029v.002a.857.857 0 0 0 .083.035l.012.004c.028.01.056.018.085.024.01.001.011.003.016.004a.93.93 0 0 0 .296.015.683.683 0 0 0 .086-.015c.01 0 .011-.002.016-.004a.94.94 0 0 0 .085-.024l.012-.004a.882.882 0 0 0 .083-.035v-.002a1.086 1.086 0 0 0 .054-.029l9.599-5.541a.889.889 0 0 0 .469-.784V6.48l-.001-.026v-.008a.889.889 0 0 0-.312-.676l-.029-.024c0-.002-.01-.005-.01-.007a.899.899 0 0 0-.107-.07L12.453.127A.887.887 0 0 0 11.99 0zm.01 2.253c.072 0 .144.019.209.056l6.537 3.774a.418.418 0 0 1 0 .724l-6.537 3.774a.418.418 0 0 1-.418 0L5.26 6.807a.418.418 0 0 1 0-.724l6.537-3.774a.42.42 0 0 1 .209-.056zm-8.08 6.458a.414.414 0 0 1 .215.057l6.524 3.766a.417.417 0 0 1 .208.361v7.533a.417.417 0 0 1-.626.361l-6.523-3.766a.417.417 0 0 1-.209-.362V9.13c0-.241.196-.414.41-.418zm16.16 0c.215.004.41.177.41.418v7.532a.42.42 0 0 1-.208.362l-6.524 3.766a.417.417 0 0 1-.626-.361v-7.533c0-.149.08-.286.209-.36l6.523-3.767a.415.415 0 0 1 .216-.057z"/></svg>',
       url: 'https://app.hackthebox.com/users/2053700',
     },
-    // {
-    //   name: 'GitHub',
-    //   icon: 'fa6-brands:facebook',
-    //   url: 'https://www.instagram.com/krits.wiri/',
-    // },
-    // {
-    //   name: 'GitHub',
-    //   icon: 'fa6-brands:instagram',
-    //   url: 'https://www.instagram.com/krits.wiri/',
-    // },
-    // {
-    //   name: 'GitHub',
-    //   icon: 'fa6-brands:github',
-    //   url: 'https://github.com/9Kritsada',
-    // },
+    {
+      name: 'CTFtime',
+      icon: '/svg/ctftime.svg',
+      url: 'https://ctftime.org/user/211185',
+    },
   ],
 }
 

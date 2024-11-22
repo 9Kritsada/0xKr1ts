@@ -23,21 +23,33 @@ const config = profileConfig
         <div class="h-1 w-5 bg-[var(--primary)] mx-auto rounded-full mb-2 transition"></div>
         <div class="text-center text-neutral-400 mb-2.5 transition">{config.bio}</div>
         <div class="flex gap-2 justify-center mb-1 flex-wrap">
-            {config.links.length >= 1 && config.links.map(item =>
-                    <a rel="me" aria-label={item.name} href={item.url} target="_blank" class="btn-regular rounded-lg h-10 w-10 active:scale-90 text-neutral-400">
-                        <span class="text-[1.5rem] w-fit h-fit max-w-full max-h-full flex items-center justify-center scale-[60%]" set:html={item.icon.replace('<svg', '<svg fill="currentColor"')} />
-                    </a>
-            )}
-            <!-- {config.links.length > 1 && config.links.map(item =>
-                <a rel="me" aria-label={item.name} href={item.url} target="_blank" class="btn-regular rounded-lg h-10 w-10 active:scale-90">
-                    <Icon name={item.icon} class="text-[1.5rem]"></Icon>
+            {config.links.length > 1 && config.links.map((item) => (
+                <a 
+                  rel="me" 
+                  aria-label={item.name} 
+                  href={item.url} 
+                  target="_blank" 
+                  class="btn-regular rounded-lg h-10 w-10 active:scale-90 text-neutral-400"
+                >
+                  {item.icon.startsWith('<svg')
+                    ? (
+                      // ถ้าเป็น SVG inline
+                      <span 
+                        class="text-[1.5rem] w-fit h-fit max-w-full max-h-full flex items-center justify-center scale-[60%]" 
+                        set:html={item.icon.replace('<svg', '<svg fill="currentColor"')}
+                      />
+                    )
+                    : (
+                      // ถ้าเป็น path ของไฟล์ SVG
+                      <img 
+                        src={item.icon} 
+                        alt={`${item.name} icon`} 
+                        class="text-[1.5rem] w-fit h-fit max-w-full max-h-full flex items-center justify-center scale-[60%]"
+                      />
+                    )
+                  }
                 </a>
-            )} -->
-            <!-- {config.links.length == 1 && <a rel="me" aria-label={config.links[0].name} href={config.links[0].url} target="_blank"
-                                            class="btn-regular rounded-lg h-10 gap-2 px-3 font-bold active:scale-95">
-                <Icon name={config.links[0].icon} class="text-[1.5rem]"></Icon>
-                {config.links[0].name}
-            </a>} -->
+              ))}
         </div>
     </div>
 </div>
